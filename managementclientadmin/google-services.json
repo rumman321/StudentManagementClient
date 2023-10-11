@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "62526430704",
+    "project_id": "studentmanagementclient-218db",
+    "storage_bucket": "studentmanagementclient-218db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62526430704:android:93587202e2b688f9ca9135",
+        "android_client_info": {
+          "package_name": "com.example.managementclientadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3BM4pN3ES2bsP__9XhT7K6i4dGp3ONXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62526430704:android:27ad9779b5dfb021ca9135",
+        "android_client_info": {
+          "package_name": "com.example.studentmanagementclient"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3BM4pN3ES2bsP__9XhT7K6i4dGp3ONXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
